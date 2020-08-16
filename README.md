@@ -9,7 +9,7 @@ The database of stocks can be found in a JSON-server, so before you start your R
 ```
 TO INSTALL: npm install -g json-server
 TO START: json-server --watch db.json
-```
+``
 
 After the stocks are fetched, your job is to:
 * Render all the stocks onto the page. The styling of how a Stock should look like is already in the `Stock.js` component.
@@ -19,4 +19,4 @@ After the stocks are fetched, your job is to:
 * allow a user to filter stocks based on the type of the stock.
 
 Best of luck!
-
+```
